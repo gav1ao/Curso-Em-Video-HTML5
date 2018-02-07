@@ -1,0 +1,7 @@
+# Ignorar a pasta de media
+/_media
+
+# Ignorar arquivos das lições de JavaScript q não fazem parte do projeto
+testjs01.html
+testjs02.html
+testjs03.html
